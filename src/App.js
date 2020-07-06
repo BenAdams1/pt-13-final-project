@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react';
 import Navbar from './components/Navbar'
 import Map from './pages/map'
-import Form from './pages/profile/Form'
+import Profile from './pages/profile'
 
 
 
@@ -10,7 +10,7 @@ function App() {
     <Fragment>
       <Navbar />
       <Map />
-      <Form />
+      <Profile />
     </Fragment>
   )
 }
