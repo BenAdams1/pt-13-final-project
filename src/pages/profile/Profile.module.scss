@@ -1,0 +1,57 @@
+.profileContainer {
+    box-sizing: border-box;
+    height: 900px;
+    width: 66vw;
+    border: 3px solid #02527D;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 4px 3px #A9B8C0;
+    margin: auto;
+   
+    section {
+        display: inline-block;
+        margin-left: 78px;
+        width: 40%;
+        word-wrap: break-word;
+        dt {
+            font-weight: bold;
+        }
+    }
+    
+    p {
+        font-weight: 300;
+        height: 36px;
+        color: #02527D;
+        font-family: Oswald, sans-serif;
+        font-size: 24px;
+        line-height: 36px;
+    }
+}
+
+.circleImage {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;  /* if image is square */
+    border: 1.5px solid #A9B8C0; 
+    margin-left: 30px;
+    margin-top: 30px;
+    /* display: inline; */
+    
+}
+
+
+
+
+
+/* p { */
+  /* font-family: "Times New Roman", Times, serif;  /*futura */
+  /* min-height: 1.5vh;
+  display: flex;
+  font-size: 15px;
+} */ 
+/* #11D1FE aqua blue */
+/* #FF008A hot pink */
+/* #41EBFE ligbt aqua */
+/* #FE99DF light pink */
+/* #A9B8C0 light gray */
+/* #02527D dark blue*/
